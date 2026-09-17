@@ -3,7 +3,7 @@ Custom microcontroller-based remote controller for an RC vehicle, featuring ESP3
 
 # Remote Controller for RC Vehicle 🎮
 
-![Project Banner](images/3d-render.png)
+![Project Banner](images/Top_3d_view.png)
 
 [![Hardware](https://img.shields.io/badge/Hardware-Altium%20Designer-gold.svg)](https://www.altium.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
